@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T22:04:34.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="kjcNOPc9He692WHF7hT0" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:25:49.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YhVqRzMFQxhm9lKyWw-F" version="23.1.1" type="github">
   <diagram name="Page-1" id="yvd34EI95t-A2EFn2MtS">
-    <mxGraphModel dx="4097" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,6 +167,21 @@
             <mxPoint x="200" y="1580" as="sourcePoint" />
             <mxPoint x="461" y="1738" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7KW-E5zMWzp69uiKam18-57" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1330" width="30.62" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7KW-E5zMWzp69uiKam18-58" value="Mailbox&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=40;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1330" width="70" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7KW-E5zMWzp69uiKam18-59" value="Message" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=40;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1330" width="70" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="7KW-E5zMWzp69uiKam18-60" value="phoneSystem" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1330" width="100" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7KW-E5zMWzp69uiKam18-61" value="&lt;table style=&quot;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;&lt;br/&gt; mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; class=&quot;MsoTableGrid&quot;&gt;&lt;br/&gt; &lt;tbody&gt;&lt;tr&gt;&lt;br/&gt;  &lt;td style=&quot;width:3.0in;border:solid windowtext 1.0pt;&lt;br/&gt;  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt&quot; valign=&quot;top&quot; width=&quot;288&quot;&gt;&lt;br/&gt;  &lt;p style=&quot;margin-bottom:0in;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Remote Access to&lt;br/&gt;  Voicemail&lt;/p&gt;&lt;br/&gt;  &lt;/td&gt;&lt;br/&gt; &lt;/tr&gt;&lt;br/&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1180" width="330" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
